@@ -1,2 +1,2 @@
 # otus-algo-2021
-Otus Algo 2021 repo
+Otus Algorithms And Data Structures-2021 course homeworks.
