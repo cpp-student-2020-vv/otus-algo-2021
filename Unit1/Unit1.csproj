@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Otus.Algo2021.Unit1</RootNamespace>
+    <AssemblyName>Otus.Algo2021.Unit1</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="pics\" />
+  </ItemGroup>
+
+</Project>
